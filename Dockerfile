@@ -1,4 +1,4 @@
-FROM php:5.5-cli
+FROM php:5.5-fpm
 
 MAINTAINER dev@dankempster.co.uk
 
