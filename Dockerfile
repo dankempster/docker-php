@@ -1,4 +1,4 @@
-FROM php:5.5-alpine
+FROM php:5.6-alpine
 
 MAINTAINER dev@dankempster.co.uk
 
