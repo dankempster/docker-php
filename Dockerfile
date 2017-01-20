@@ -1,4 +1,4 @@
-FROM php:7.1-fpm
+FROM php:fpm
 
 MAINTAINER dev@dankempster.co.uk
 
